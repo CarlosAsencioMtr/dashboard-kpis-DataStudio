@@ -1,0 +1,6 @@
+fecha,cliente,categoria,producto,cantidad,monto,estado
+2026-01-01,Cliente A,Categoria 1,Producto 1,10,2500,Completado
+2026-01-02,Cliente B,Categoria 2,Producto 2,5,1200,Pendiente
+2026-01-03,Cliente C,Categoria 1,Producto 3,7,1750,Completado
+2026-01-04,Cliente D,Categoria 3,Producto 4,3,900,En proceso
+2026-01-05,Cliente E,Categoria 2,Producto 5,12,3600,Completado
